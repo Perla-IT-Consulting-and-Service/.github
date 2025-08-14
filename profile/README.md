@@ -80,5 +80,5 @@ git clone https://github.com/perla-it-consulting/<repo-name>.git
 
 All public repositories are MIT Licensed unless specified otherwise. Proprietary solutions available under commercial terms.
 
-© 2024 Perla IT Consulting and Services
+© 2025 Perla IT Consulting and Services
 🌐 Visit our website
