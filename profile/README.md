@@ -1,4 +1,4 @@
-# Perla IT Consulting and Services 🚀  
+# Perla IT Services and Consulting 🚀  
 
 **Empowering Your Digital Transformation**  
 
@@ -82,3 +82,4 @@ All public repositories are MIT Licensed unless specified otherwise. Proprietary
 
 © 2025 Perla IT Consulting and Services
 🌐 Visit our website
+
